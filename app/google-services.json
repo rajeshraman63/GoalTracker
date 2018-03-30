@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604105946368",
+    "firebase_url": "https://goaltracker-375d7.firebaseio.com",
+    "project_id": "goaltracker-375d7",
+    "storage_bucket": "goaltracker-375d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604105946368:android:05eb379f63faa080",
+        "android_client_info": {
+          "package_name": "com.rajesh.goaltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604105946368-c4m4qtqputtdb4lmokr68p07mi70erll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajesh.goaltracker",
+            "certificate_hash": "14395e8a238f816f4986bc6c0b8ebcdb3856bf7a"
+          }
+        },
+        {
+          "client_id": "604105946368-gdri5krt7su5bqi6febpvm71r1u3rf5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6w4-8Qb5odit8UI3NcRLvmCWcFEHGz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604105946368-gdri5krt7su5bqi6febpvm71r1u3rf5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
