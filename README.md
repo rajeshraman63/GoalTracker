@@ -1,7 +1,7 @@
-# GoalTracker
+# Goal Tracker
 This app helps to track  your goals very easily. 
 
 # Libraries used
-Firebase -  for database
+Firebase -   Dynamic database
 
 
